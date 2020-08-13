@@ -4,7 +4,7 @@ My name is Adam and I'm just starting with git and github.
 ### 🔭 I’m currently working on ...
 Actually my main project is ***Tetris in ReactJS***. I have learned a lot since I started making it and I still have some ideas to add.
 
-My second project is ***Koła zębate ZFA-75***, yea I know it may sounds scary :sweat_smile: but it's my opensource app for individual customer. Actually there are many things I can add to this project but it's not necessary to do it at this moment.
+My second important project is ***Koła zębate ZFA-75***, yea I know it may sounds scary :sweat_smile: but it's my opensource app for individual customer. Actually there are many things I can add to this project but it's not necessary to do it at this moment.
 
 You can also see some of my projects here: [My dashboard on codepen](https://codepen.io/dashboard/)
 
