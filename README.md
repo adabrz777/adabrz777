@@ -12,13 +12,13 @@ You can also see some of my projects here: [My dashboard on codepen](https://cod
 
 ### 🌱 I’m currently learning ...
 I'm actually learning React JS, but in my planes I also have things like:
-**- Redux**
-**- React Native**
-**- Node.js**
-**- MongoDB**
-**- automatic tests**
-**- npm**
-**- pwa**
+**- Redux**  
+**- React Native**  
+**- Node.js**  
+**- MongoDB**  
+**- automatic tests**  
+**- npm**  
+**- pwa**  
 
 *I know that IT technologies are changing really fast and I'm ready to change my plans. I'm focus on possibilities.*  :relieved:
 
