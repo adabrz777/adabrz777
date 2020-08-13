@@ -11,7 +11,7 @@ You can also see some of my projects here: [My dashboard on codepen](https://cod
 >I'm also working on some little projects but they're in their really early version so they are not ready to add them here.
 
 ### 🌱 I’m currently learning ...
-I'm actually learning React JS, but in my planes I also have things like:
+I'm actually learning React JS, but in my planes I also have things like:  
 **- Redux**  
 **- React Native**  
 **- Node.js**  
