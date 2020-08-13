@@ -23,7 +23,7 @@ I'm actually learning React JS, but in my planes I also have things like:
 *I know that IT technologies are changing really fast and I'm ready to change my plans. I'm focus on possibilities.*  :relieved:
 
 ### 📫 How to reach me: ...
-My mail address: adabrz777@gmail.com
+My mail address is: adabrz777@gmail.com
 
 <!--
 **adabrz777/adabrz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
